@@ -8,14 +8,14 @@
     <name>Plain-plugins</name>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-    <vendor email="hzqsultan@qq.com" url="https://github.com/SultanDebug/plain-plugin">sultan</vendor>
+    <vendor email="hzqsultan@qq.com" url="https://github.com/AgentNo-9527/plain-plugin">sultan</vendor>
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
       hzqsultan@qq.com
-      https://github.com/SultanDebug
+      https://github.com/AgentNo-9527/plain-plugin
       凑40个字啊打啊打啊打啊打啊打啊打啊打啊...
   ]]></description>
 
